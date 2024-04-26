@@ -1,42 +1,42 @@
 /* fonts */
 @font-face {
     font-family: "Sofia Sans";
-    src: url("/resources/fonts/SofiaSans-VariableFont_wght.ttf") format("truetype");
+    src: url("resources/fonts/SofiaSans-VariableFont_wght.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Sofia Sans Italic";
-    src: url("/resources/fonts/SofiaSans-Italic-VariableFont_wght.ttf") format("truetype");
+    src: url("resources/fonts/SofiaSans-Italic-VariableFont_wght.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Prompt Regular";
-    src: url("/resources/fonts/Prompt-Regular.ttf") format("truetype");
+    src: url("resources/fonts/Prompt-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Prompt Bold";
-    src: url("/resources/fonts/Prompt-Bold.ttf") format("truetype");
+    src: url("resources/fonts/Prompt-Bold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Prompt Italic";
-    src: url("/resources/fonts/Prompt-Italic.ttf") format("truetype");
+    src: url("resources/fonts/Prompt-Italic.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Merriweather Regular";
-    src: url("/resources/fonts/Merriweather-Regular.ttf") format("truetype");
+    src: url("resources/fonts/Merriweather-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Merriweather Bold";
-    src: url("/resources/fonts/Merriweather-Bold.ttf") format("truetype");
+    src: url("resources/fonts/Merriweather-Bold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Merriweather Italic";
-    src: url("/resources/fonts/Merriweather-Italic.ttf") format("truetype");
+    src: url("resources/fonts/Merriweather-Italic.ttf") format("truetype");
 }
 
 * {
